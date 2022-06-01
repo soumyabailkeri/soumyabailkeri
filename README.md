@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @soumyabailkeri
 - 👀 I’m interested in coding and music
 - 🌱 I’m currently learning Bachelor of Engineering in Computer science
-- 💞️ I’m looking to collaborate on new software projects
-- 📫 How to reach me srbailkeri@gmail.com
+- 💞️ I’m looking to collaborate with new software projects
+- 📫 How to reach me : srbailkeri@gmail.com
 
 <!---
 soumyabailkeri/soumyabailkeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
