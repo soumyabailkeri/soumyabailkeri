@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @soumyabailkeri
-- 👀 I’m interested in coding and music
-- 🌱 I’m currently learning Bachelor of Engineering in Computer science
-- 💞️ I’m looking to collaborate with new software projects
+- 👋🏻 Hi, I’m @soumyabailkeri
+- 💬 I’m interested in Web Development and Data Science
+- 🌱 I’m currently pursuing Bachelor of Engineering in Computer Science
+- 💞️ I’m looking to collaborate with and contribute to new software projects
 - 📫 How to reach me : srbailkeri@gmail.com
 
 <!---
