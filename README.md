@@ -1,37 +1,26 @@
-# Hi, I'm Soumya 👋🏻
+# Hi, I'm Soumya Bailkeri 👋🏻
 
-Backend Software Engineer with 3 years at Tata Consultancy Services, building microservices and REST APIs for core banking platforms used by millions. Currently levelling up into Python backend development and Machine Learning.
+Backend Software Engineer with 3 years at Tata Consultancy Services in the BFSI domain. Building Python APIs, ML services, and LLM-powered applications.
 
----
+## 🚀 Projects
 
-## 🛠 What I work with
+| Project | Stack | Description |
+|---|---|---|
+| [creditrisk-api](https://github.com/soumyabailkeri/creditrisk-api) | FastAPI · Scikit-learn · PostgreSQL · Docker | ML-powered loan risk scoring API |
+| [bfsi-assistant](https://github.com/soumyabailkeri/bfsi-assistant) | LangChain · Groq LLM · RAG · FastAPI · Docker | AI banking assistant with memory and RAG |
+| [mybank](https://github.com/soumyabailkeri/mybank) | Django · DRF · JWT · PostgreSQL | Banking REST API with JWT authentication |
 
-**Languages:** Python · JavaScript · Java · SQL  
-**Backend:** Django · FastAPI · Django REST Framework · Spring Boot  
-**Data & ML:** Pandas · NumPy · Matplotlib · Scikit-learn  
-**Databases:** PostgreSQL · MySQL · MongoDB  
-**Tools:** Apache Kafka · Docker · Jenkins · Git · Postman · Swagger  
+## 🛠 Tech Stack
 
----
+**Backend:** Python · Django · FastAPI · Django REST Framework  
+**AI/ML:** LangChain · Groq LLMs · Scikit-learn · RAG · ChromaDB  
+**Data:** Pandas · NumPy · Matplotlib · PostgreSQL · MongoDB  
+**DevOps:** Docker · Git · Jenkins · CI/CD  
+**Domain:** BFSI · Core Banking · Microservices · Apache Kafka  
 
-## 🏦 What I've built professionally
-
-At TCS I worked on the BaNCS core banking platform — designing REST APIs for teller operations, cash management, paper remittance, loan processing, and business partner workflows. I know fintech systems from the inside.
-
----
-
-## 🚀 What I'm building now
-
-- **Credit Risk Scoring API** — FastAPI + ML model that scores loan applications using real banking domain knowledge  
-- **ETL Analytics Pipeline** — Django DRF + Pandas data pipeline with REST API for insights  
-
----
-
-## 📫 Let's connect
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-soumyabailkeri-blue?style=flat&logo=linkedin)](https://linkedin.com/in/soumyabailkeri)
 [![Email](https://img.shields.io/badge/Email-srbailkeri@gmail.com-red?style=flat&logo=gmail)](mailto:srbailkeri@gmail.com)
 
----
-
-*Open to backend Python and ML engineering roles. Based in India, open to Bangalore and Mumbai.*
+*Open to Python Developer, Data Analyst, and ML Engineer roles*
